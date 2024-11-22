@@ -1,3 +1,4 @@
+//npm install react-scripts --save (if it doesn't work)
 
 import React from 'react';
 import { Routes, Route } from 'react-router-dom';
